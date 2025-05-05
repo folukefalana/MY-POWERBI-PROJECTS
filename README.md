@@ -46,5 +46,7 @@ To support data-driven decision-making by collecting, analyzing, and interpretin
 # EDUCATION AND CERTIFICATIONS
 ---
 [Masters in Public Administration](https://drive.google.com/file/d/1044xEUbCmQmDhWJgWMHzexSM8UXLbNz8/view?usp=sharing) 
+
 [Certified Data Analyst](https://drive.google.com/file/d/1mMYHOAQARALxa2iJ9hAIzIQAY12ejfdf/view?usp=sharing) 
+
 [Certified Project Management](https://drive.google.com/file/d/1r-_ehS05LfOW2LyLxX8c8xSSEUHglY-P/view?usp=sharing)
