@@ -49,9 +49,11 @@ I am a data analyst with a strong focus on turning raw data into actionable insi
   
 - Machine Learning Libraries
 ---
-## PROJECT HIGHLIGHTS
+### PROJECT HIGHLIGHTS
 
 PROJECT 1: [Adventurework Visualized Data](https://github.com/folukefalana/PowerBI-Project-1.git)
+PROJECT 2: [Beverage Data](https://github.com/folukefalana/Project-2.git)
+PROJECT 3: [Titanic Surviver]()
 ---
 # GOALS
 ---
