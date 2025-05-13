@@ -1,9 +1,10 @@
 # BUSINESS INTELLIGENCE DEVELOPER-PORTFOLIO
-# ABOUT ME
+### ABOUT ME
 ---
 I am a data analyst with a strong focus on turning raw data into actionable insights using Power BI and SQL. With hands-on experience designing interactive dashboards and writing complex queries, I help teams make smarter, data-driven decisions. I enjoy translating business problems into analytical solutions and take pride in presenting clear, visual stories that support strategic planning. Whether it's optimizing reporting workflows or uncovering performance trends, I bring curiosity, precision, and a practical approach to every project I work on.
+
 ---
-# SKILLS AND EXPERTISE 
+### SKILLS AND EXPERTISE 
 ---
 ### 1. Data Wrangling and Cleaning
 - Proficiency in preparing raw data for analysis by handling missing values, correcting data types, eliminating duplicates, and converting data into appropriate formats.
