@@ -51,7 +51,7 @@ I am a data analyst with a strong focus on turning raw data into actionable insi
 ---
 ## PROJECT HIGHLIGHTS
 
-PROJECT 1: [Adventurework Visualized Data]( )
+PROJECT 1: [Adventurework Visualized Data](https://github.com/folukefalana/PowerBI-Project-1.git)
 ---
 # GOALS
 ---
