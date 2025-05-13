@@ -33,9 +33,20 @@ I am a data analyst with a strong focus on turning raw data into actionable insi
 ## TOOLBOX
 ---
 - Excel
+  
 - Power BI
-- PivotTables
+  
+- Pivot Table
+
 - Python
+  
+- SQL
+  
+- R
+  
+- Microsoft Azure
+  
+- Machine Learning Libraries
 ---
 # PROJECT HIGHLIGHTS
 PROJECT 1: 
