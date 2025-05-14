@@ -59,8 +59,9 @@ PROJECT 3: [Titanic Survivor](https://github.com/folukefalana/Project-3.git)
 
 PROJECT 4: [Car Sales Analysis](https://github.com/folukefalana/Project-4.git)
 
-PROJECT 5: []()
+PROJECT 5: [Shopify Analytics](https://github.com/folukefalana/Project-5.git)
 
+PROJECT 6: []()
 ---
 # GOALS
 ---
