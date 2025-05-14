@@ -61,7 +61,9 @@ PROJECT 4: [Car Sales Analysis](https://github.com/folukefalana/Project-4.git)
 
 PROJECT 5: [Shopify Analytics](https://github.com/folukefalana/Project-5.git)
 
-PROJECT 6: []()
+PROJECT 6: [Financial Data Report Visualization](https://github.com/folukefalana/Project-6.git)
+
+PROJECT 7: []()
 ---
 # GOALS
 ---
