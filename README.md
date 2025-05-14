@@ -55,10 +55,12 @@ PROJECT 1: [Adventurework Visualized Data](https://github.com/folukefalana/Power
 
 PROJECT 2: [Beverage Data](https://github.com/folukefalana/Project-2.git)
 
-PROJECT 3: []
+PROJECT 3: [Titanic Survivor](https://github.com/folukefalana/Project-3.git)
 
 PROJECT 4: [Car Sales Analysis](https://github.com/folukefalana/Project-4.git)
-PROJECT 3: [Titanic Surviver]()
+
+PROJECT 5: []()
+
 ---
 # GOALS
 ---
