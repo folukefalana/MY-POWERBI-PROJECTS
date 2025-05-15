@@ -71,6 +71,8 @@ PROJECT 9: [HR Data Analysis](https://github.com/folukefalana/Project-9.git)
 
 PROJECT 10: [Ekiti State Election Analysis](https://github.com/folukefalana/Project-10.git)
 
+PROJECT 11: [Insurance Analysis](https://github.com/folukefalana/Project-11.git)
+
 ---
 # GOALS
 ---
