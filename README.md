@@ -67,7 +67,7 @@ PROJECT 7: [Call Center Analysis](https://github.com/folukefalana/Project-7.git)
 
 PROJECT 8: [Bank Loan](https://github.com/folukefalana/Project-8.git)
 
-PROJECT 9: []()
+PROJECT 9: [HR Data Analysis](https://github.com/folukefalana/Project-9.git)
 
 ---
 # GOALS
