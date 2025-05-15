@@ -69,6 +69,8 @@ PROJECT 8: [Bank Loan](https://github.com/folukefalana/Project-8.git)
 
 PROJECT 9: [HR Data Analysis](https://github.com/folukefalana/Project-9.git)
 
+PROJECT 10: [Ekiti State Election Analysis](https://github.com/folukefalana/Project-10.git)
+
 ---
 # GOALS
 ---
