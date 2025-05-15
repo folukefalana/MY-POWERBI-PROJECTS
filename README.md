@@ -63,7 +63,7 @@ PROJECT 5: [Shopify Analytics](https://github.com/folukefalana/Project-5.git)
 
 PROJECT 6: [Financial Data Report Visualization](https://github.com/folukefalana/Project-6.git)
 
-PROJECT 7: []()
+PROJECT 8: [Bank Loan](https://github.com/folukefalana/Project-8.git)
 ---
 # GOALS
 ---
